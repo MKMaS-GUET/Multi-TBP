@@ -51,16 +51,16 @@ The paper's basic training environment for its results is Python 3.8, Pytorch 1.
 
 Paper publication address:
 
-> [Exploring the Impact of Drivers' Emotion and Multi-task Learning on Takeover Behavior Prediction in Multimodal Environment](https://aclanthology.org/2024.findings-emnlp.865/)
+> [Exploring the Impact of Drivers' Emotion and Multi-task Learning on Takeover Behavior Prediction in Multimodal Environment](https://dl.acm.org/doi/full/10.1145/3706599.3719854)
 
 Please cite our paper if you find it having other limitations and valuable for your research (卑微求引用 T^T) :
 
 ```txt
 @inproceedings{feng2025exploring,
-  title={Exploring the Impact of Drivers' Emotion and Multi-task Learning on Takeover Behavior Prediction in Multimodal Environment},
+  title={Exploring the Impact of Drivers' Emotion and Multi-task Learning on Takeover Behavior Prediction in Multimodal Environment: Exploring Takeover Behavior Prediction in Multimodal Environment},
   author={Feng, Xinyu and Gu, Yu and Lin, Yuming and Cai, Yaojun},
-  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
-  pages={14755--14766},
+  booktitle={Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems},
+  pages={1--8},
   year={2025}
 }
 ```
